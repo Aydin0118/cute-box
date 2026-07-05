@@ -1,7 +1,7 @@
 #  | 小惊喜
 * 作为程序员怎么能忘记家里的小可爱呢
 
-  As a programmer, how could one forget about the little one at home?
+  As a programmer, how could one forget about the little one at home
 
 * 说明
 
