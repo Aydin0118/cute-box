@@ -25,7 +25,7 @@
 * -i自定义图标
 * 每个指令隔一个空格
 
-# [html爱心](1)
+# [html爱心](01.html)
 <img width="3185" height="1723" alt="image" src="https://github.com/user-attachments/assets/54180f4d-43d7-4413-9057-a4e6e94353bb" />
 
 
